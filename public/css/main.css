@@ -1,0 +1,28 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+*{
+  color: #fff;
+  background-color: #1a2e35;
+  margin: 2px;
+}
+
+.col{
+  margin-top: 100px;
+}
+
+img{
+  margin-top: -100px;
+}
+
+a{
+  color: #fff;
+}
+
+h1{
+  font-size: 80pt;
+}
+
+p{
+  font-size: 15pt;
+  color: #f2f2f2;
+}
